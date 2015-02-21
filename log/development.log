@@ -1,0 +1,45 @@
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-21 14:26:06 -0600
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (13.8ms)
+Compiled jquery.js  (7ms)  (pid 27897)
+Compiled jquery_ujs.js  (2ms)  (pid 27897)
+Compiled application.js  (106ms)  (pid 27897)
+Completed 200 OK in 351ms (Views: 349.1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-21 14:26:08 -0600
+Served asset /jquery.js - 200 OK (24ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-21 14:26:08 -0600
+Served asset /jquery_ujs.js - 200 OK (9ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-21 14:26:08 -0600
+Served asset /application.js - 200 OK (26ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-21 14:29:24 -0600
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 143ms (Views: 141.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-21 14:30:13 -0600
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 16ms (Views: 15.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-21 14:30:57 -0600
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 17ms (Views: 16.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-21 14:31:24 -0600
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (13.4ms)
+Completed 200 OK in 146ms (Views: 145.1ms)
