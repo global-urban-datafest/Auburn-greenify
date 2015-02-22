@@ -19,4 +19,3 @@ end
 gem 'jquery-rails'
 gem 'ibm_db'
 gem 'therubyracer'
-gem 'quiet_assets'
